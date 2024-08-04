@@ -26,6 +26,5 @@ Extention to RGB-D CoSOD task
 We use the most straightforward early fusion strategy, which does not introduce additional parameters, to validate the effectiveness and generalization of the proposed VCP for the RGB-D CoSOD task. Quantitative and qualitative comparison with SOTA methods：
 
 ![7](https://github.com/user-attachments/assets/ecf8a5a3-15f0-497f-86c0-789ad8e5d2f2)
-![image](https://github.com/user-attachments/assets/979d5d02-d31a-4c58-afcf-cac97cc3d211)
-
+![7](https://github.com/user-attachments/assets/d392eb0f-d171-421e-97ee-989c1b18f145)
 
