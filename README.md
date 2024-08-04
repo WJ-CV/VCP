@@ -8,3 +8,24 @@ Comparison of Architecture and Performance with Existing Related Methods
   <img src="https://github.com/user-attachments/assets/bfb9f109-1bcd-4eab-9f4a-923156158471" width="45%" style="display:inline;" />
 </p>
 
+Network Architecture
+---
+![3](https://github.com/user-attachments/assets/24f5455a-7f8d-48da-b3b9-348e1090f911)
+
+Quantitative and qualitative comparison with SOTA methods
+---
+![4](https://github.com/user-attachments/assets/3585d26e-44bd-4518-ad2d-9d0e4da11d60)
+![5](https://github.com/user-attachments/assets/01fa03fe-b13c-4fcb-a4bc-be788fa1487e)
+
+Some alternative schemes of VCP exhibit more efficient parameters and competitive performance
+---
+![6](https://github.com/user-attachments/assets/4b0c9130-b028-417f-90e1-ed8584f07f96)
+
+Extention to RGB-D CoSOD 
+---
+We use the most straightforward early fusion strategy, which does not introduce additional parameters, to validate the effectiveness and generalization of the proposed VCP for the RGB-D CoSOD task. Quantitative and qualitative comparison with SOTA methods：
+
+![7](https://github.com/user-attachments/assets/ecf8a5a3-15f0-497f-86c0-789ad8e5d2f2)
+![image](https://github.com/user-attachments/assets/979d5d02-d31a-4c58-afcf-cac97cc3d211)
+
+
