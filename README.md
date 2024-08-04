@@ -24,7 +24,7 @@ Some alternative schemes of VCP exhibit more efficient parameters and competitiv
 Extention to RGB-D CoSOD task
 ---
 We use the most straightforward early fusion strategy, which does not introduce additional parameters, to validate the effectiveness and generalization of the proposed VCP for the RGB-D CoSOD task. Quantitative and qualitative comparison with SOTA methods：
+![7](https://github.com/user-attachments/assets/30efadb1-0b19-4aef-a549-6b9b6e093ba5)
+![8](https://github.com/user-attachments/assets/1149ffd4-f7a6-4dec-8a0c-1c55c8a773dc)
 
-![7](https://github.com/user-attachments/assets/ecf8a5a3-15f0-497f-86c0-789ad8e5d2f2)
-![7](https://github.com/user-attachments/assets/d392eb0f-d171-421e-97ee-989c1b18f145)
 
