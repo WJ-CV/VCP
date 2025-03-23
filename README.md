@@ -14,7 +14,8 @@ Network Architecture
 
 Quantitative and qualitative comparison with SOTA methods
 ---
-![4](https://github.com/user-attachments/assets/3585d26e-44bd-4518-ad2d-9d0e4da11d60)
+<img width="1151" alt="1a3db3046373cc805cf20cb7f37970f" src="https://github.com/user-attachments/assets/b783e535-1fec-4a97-9c08-9a791931551d" />
+
 ![5](https://github.com/user-attachments/assets/01fa03fe-b13c-4fcb-a4bc-be788fa1487e)
 
 Some alternative schemes of VCP exhibit more efficient parameters and competitive performance
