@@ -1,7 +1,7 @@
 # [CVPR2025] VCP: Visual Consensus Prompting for Co-Salient Object Detection
 🔥🔥🔥Our work has been accepted at CVPR 2025, and we will release the source code soon.
 
-Comparison of Architecture and Performance with Existing Related Methods
+Comparison of Architecture and Performance to Existing Methods
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77df6d20-ec68-4978-b4ec-97e98c478613" width="45%" style="display:inline; margin-right:10px;" />
