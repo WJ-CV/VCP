@@ -17,8 +17,7 @@ The prediction results of our model are available on [google-drive](https://driv
 
 Quantitative and qualitative comparison with SOTA methods
 ---
-![36b103e8f61f99d42c0a648cd44a1b1f](https://github.com/user-attachments/assets/3d65892b-6bb7-4487-8eff-23025fa2a2aa)
-
+![c93a3a49bc1bd12a41683c1be8b3c1b2](https://github.com/user-attachments/assets/b4365436-4f5b-4493-8251-a7ce48dbf64a)
 <img width="1051" alt="fig 6" src="https://github.com/user-attachments/assets/a209991e-4707-4a00-9556-36882923f588" />
 
 Some alternative schemes of VCP exhibit more efficient parameters and competitive performance
@@ -28,7 +27,7 @@ Some alternative schemes of VCP exhibit more efficient parameters and competitiv
 Extention to RGB-D CoSOD task
 ---
 We use the most straightforward early fusion strategy, which does not introduce additional parameters, to validate the effectiveness and generalization of the proposed VCP for the RGB-D CoSOD task. Quantitative and qualitative comparison with SOTA methods：
-![7](https://github.com/user-attachments/assets/30efadb1-0b19-4aef-a549-6b9b6e093ba5)
+![36b103e8f61f99d42c0a648cd44a1b1f](https://github.com/user-attachments/assets/3d65892b-6bb7-4487-8eff-23025fa2a2aa)
 ![8](https://github.com/user-attachments/assets/1149ffd4-f7a6-4dec-8a0c-1c55c8a773dc)
 
 
