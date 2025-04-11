@@ -17,7 +17,7 @@ The prediction results of our model are available on [google-drive](https://driv
 
 Quantitative and qualitative comparison with SOTA methods
 ---
-![c93a3a49bc1bd12a41683c1be8b3c1b2](https://github.com/user-attachments/assets/ec239e97-33a9-4f5d-887f-f8eb675510ed)
+![36b103e8f61f99d42c0a648cd44a1b1f](https://github.com/user-attachments/assets/3d65892b-6bb7-4487-8eff-23025fa2a2aa)
 
 <img width="1051" alt="fig 6" src="https://github.com/user-attachments/assets/a209991e-4707-4a00-9556-36882923f588" />
 
