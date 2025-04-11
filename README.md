@@ -9,7 +9,7 @@
 
 Framework Overview
 ---
-![3](https://github.com/user-attachments/assets/24f5455a-7f8d-48da-b3b9-348e1090f911)
+![3](https://github.com/user-attachments/assets/79903c7a-c1cd-47b0-b003-8e496f80738d)
 
 Results
 ---
