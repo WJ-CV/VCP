@@ -14,7 +14,7 @@ Network Architecture
 
 Results
 ---
-The prediction results of our model is available at [google-drive](https://drive.google.com/file/d/1roiadSPrNQjylI3cS433GssQ4-lMSBi4/view?usp=sharing)|[BaiduYun](https://pan.baidu.com/s/18UAm2KGET9itUdNI9F8eRw)(fetch code: 0825)
+The prediction results of our model are available on [google-drive](https://drive.google.com/file/d/1roiadSPrNQjylI3cS433GssQ4-lMSBi4/view?usp=sharing)|[BaiduYun](https://pan.baidu.com/s/18UAm2KGET9itUdNI9F8eRw)(fetch code: 0825)
 
 Quantitative and qualitative comparison with SOTA methods
 ---
