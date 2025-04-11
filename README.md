@@ -18,8 +18,8 @@ The prediction results of our model are available on [google-drive](https://driv
 Quantitative and qualitative comparison with SOTA methods
 ---
 <img width="1151" alt="1a3db3046373cc805cf20cb7f37970f" src="https://github.com/user-attachments/assets/b783e535-1fec-4a97-9c08-9a791931551d" />
-
-![5](https://github.com/user-attachments/assets/01fa03fe-b13c-4fcb-a4bc-be788fa1487e)
+![c93a3a49bc1bd12a41683c1be8b3c1b2](https://github.com/user-attachments/assets/ec239e97-33a9-4f5d-887f-f8eb675510ed)
+<img width="1051" alt="fig 6" src="https://github.com/user-attachments/assets/a209991e-4707-4a00-9556-36882923f588" />
 
 Some alternative schemes of VCP exhibit more efficient parameters and competitive performance
 ---
