@@ -30,4 +30,14 @@ We use the most straightforward early fusion strategy, which does not introduce 
 ![36b103e8f61f99d42c0a648cd44a1b1f](https://github.com/user-attachments/assets/3d65892b-6bb7-4487-8eff-23025fa2a2aa)
 ![8](https://github.com/user-attachments/assets/1149ffd4-f7a6-4dec-8a0c-1c55c8a773dc)
 
-
+Citation
+===
+```
+@inproceedings{wang2025visual,
+  title={Visual consensus prompting for co-salient object detection},
+  author={Wang, Jie and Yu, Nana and Zhang, Zihao and Han, Yahong},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={9591--9600},
+  year={2025}
+}
+```
