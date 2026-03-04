@@ -38,6 +38,23 @@ We use the most straightforward early fusion strategy, which does not introduce 
 ![36b103e8f61f99d42c0a648cd44a1b1f](https://github.com/user-attachments/assets/3d65892b-6bb7-4487-8eff-23025fa2a2aa)
 ![8](https://github.com/user-attachments/assets/1149ffd4-f7a6-4dec-8a0c-1c55c8a773dc)
 
+🏁 Quick Start
+---
+
+```bash
+# 1️⃣ Create and activate the conda environment
+conda create -n CoSOD python=3.10 -y
+conda activate CoSOD
+
+# 2️⃣ Install PyTorch + Torchvision (CUDA 11.3)
+pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 \
+  --extra-index-url https://download.pytorch.org/whl/cu113
+
+# 3️⃣ Install OpenMMLab key packages
+pip install mmcv-full==1.7.1
+pip install mmsegmentation==0.30.0
+pip install mmcls==0.25.0
+
 📌 Citation
 ===
 ```
