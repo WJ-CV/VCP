@@ -58,7 +58,7 @@ pip install mmcls==0.25.0
 
 # 4️⃣ Run inference
 # Replace # with your GPU id
-CUDA_VISIBLE_DEVICES=# python test_CoSOD.py
+CUDA_VISIBLE_DEVICES=0 python test_CoSOD.py
 ```
 
 📌 Citation
