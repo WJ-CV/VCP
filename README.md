@@ -27,7 +27,7 @@ Framework Overview
 ## 🏛️ Model Zoo
 | VCP_Model | Segformer |
 |:-----:|:-------:|
-| VGGDrive | NAVSIM |
+| [DUT_class+COCO-SEG](https://huggingface.co/wang-jie825/VCP_model/tree/main) | [b4](https://huggingface.co/wang-jie825/VCP_model/tree/main) |
 
 Results
 ---
