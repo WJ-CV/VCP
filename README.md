@@ -32,10 +32,6 @@ Quantitative and qualitative comparison with SOTA methods
 ![c93a3a49bc1bd12a41683c1be8b3c1b2](https://github.com/user-attachments/assets/b4365436-4f5b-4493-8251-a7ce48dbf64a)
 <img width="1051" alt="fig 6" src="https://github.com/user-attachments/assets/a209991e-4707-4a00-9556-36882923f588" />
 
-Some alternative schemes of VCP exhibit more efficient parameters and competitive performance
----
-![6](https://github.com/user-attachments/assets/4b0c9130-b028-417f-90e1-ed8584f07f96)
-
 Extention to RGB-D CoSOD task
 ---
 We use the most straightforward early fusion strategy, which does not introduce additional parameters, to validate the effectiveness and generalization of the proposed VCP for the RGB-D CoSOD task. Quantitative and qualitative comparison with SOTA methods：
