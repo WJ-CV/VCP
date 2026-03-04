@@ -4,7 +4,7 @@
 
 
 ## 📢 News
-- **[2026/03/04]** 🚀 Released VCP [weights (DUT_class+COCO-SEG)](#VCP_model) and inference code.
+- **[2026/03/04]** 🚀 Released VCP weights [(DUT_class+COCO-SEG)](#VCP_model) and inference code.
 - **[2025/06/17]** 👉 paper [link](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Visual_Consensus_Prompting_for_Co-Salient_Object_Detection_CVPR_2025_paper.pdf)
 - **[2025/02/27]** 🎉🎉🎉 Accepted to CVPR 2025.
 
