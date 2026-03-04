@@ -29,10 +29,6 @@ Framework Overview
 |:-----:|:-------:|:-------:|
 | [DUT_class+COCO-SEG](https://huggingface.co/wang-jie825/VCP_model/tree/main) | [b4](https://huggingface.co/wang-jie825/VCP_model/tree/main) | [google-drive](https://drive.google.com/file/d/1roiadSPrNQjylI3cS433GssQ4-lMSBi4/view?usp=sharing) [Hug](https://huggingface.co/datasets/wang-jie825/VCP_CoSOD_result/tree/main) |
 
-Results
----
-The prediction results of our model are available on [google-drive](https://drive.google.com/file/d/1roiadSPrNQjylI3cS433GssQ4-lMSBi4/view?usp=sharing)|[BaiduYun](https://pan.baidu.com/s/18UAm2KGET9itUdNI9F8eRw)(fetch code: 0825)
-
 Quantitative and qualitative comparison with SOTA methods
 ---
 ![c93a3a49bc1bd12a41683c1be8b3c1b2](https://github.com/user-attachments/assets/b4365436-4f5b-4493-8251-a7ce48dbf64a)
