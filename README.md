@@ -3,6 +3,11 @@
 </h2>
 
 
+## 📢 News
+- **[2026/02/26]** 🚀 Released VCP [weights (DUT_class+COCO-SEG)](#vggdrive-model-zoo) and inference code.
+- **[2026/02/24]** 👉 [paper]([https://arxiv.org/abs/2602.20794](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Visual_Consensus_Prompting_for_Co-Salient_Object_Detection_CVPR_2025_paper.pdf)).
+- **[2025/02/27]** 🎉🎉🎉 Accepted to CVPR 2025.
+- 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/23663485-1314-4e8c-892d-b8e87430e065" width="45%" style="display:inline; margin-right:10px;" />
   <img src="https://github.com/user-attachments/assets/bb71bf10-6314-465d-9efd-e3aeeac4209b" width="45%" style="display:inline;" />
