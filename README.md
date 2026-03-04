@@ -12,16 +12,12 @@ Abstract
 ---
 Existing co-salient object detection (CoSOD) methods generally employ a three-stage architecture (i.e., encoding, consensus extraction & dispersion, and prediction) along with a typical full fine-tuning paradigm. Although they yield certain benefits, they exhibit two notable limitations: 1) This architecture relies on encoded features to facilitate consensus extraction, but the meticulously extracted consensus does not provide timely guidance to the encoding stage. 2) This paradigm involves globally updating all parameters of the model, which is parameter-inefficient and hinders the effective representation of knowledge within the foundation model for this task. Therefore, in this paper, we propose an interaction-effective and parameter-efficient concise architecture for the CoSOD task, addressing two key limitations. It introduces, for the first time, a parameter-efficient prompt tuning paradigm and seamlessly embeds consensus into the prompts to formulate task-specific Visual Consensus Prompts (VCP). Our VCP aims to induce the frozen foundation model to perform better on CoSOD tasks by formulating task-specific visual consensus prompts with minimized tunable parameters. Concretely, the primary insight of the purposeful Consensus Prompt Generator (CPG) is to enforce limited tunable parameters to focus on co-salient representations and generate consensus prompts. The formulated Consensus Prompt Disperser (CPD) leverages consensus prompts to form task-specific visual consensus prompts, thereby arousing the powerful potential of pre-trained models in addressing CoSOD tasks. Extensive experiments demonstrate that our concise VCP outperforms 13 cutting-edge full fine-tuning models, achieving the new state of the art (with 6.8% improvement in F_m metrics on the most challenging CoCA dataset).
 
+![3](https://github.com/user-attachments/assets/79903c7a-c1cd-47b0-b003-8e496f80738d)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23663485-1314-4e8c-892d-b8e87430e065" width="45%" style="display:inline; margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/3668d236-0dc8-4e99-8b2f-a802a898c6b6" width="45%" style="display:inline; margin-right:10px;" />
   <img src="https://github.com/user-attachments/assets/bb71bf10-6314-465d-9efd-e3aeeac4209b" width="45%" style="display:inline;" />
 </p>
-
-
-Framework Overview
----
-![3](https://github.com/user-attachments/assets/79903c7a-c1cd-47b0-b003-8e496f80738d)
 
 <a name="VCP_model"></a>
 ## 🏛️ Model Zoo
