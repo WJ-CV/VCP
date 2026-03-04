@@ -1,0 +1,32 @@
+val_dataset:
+  root_path: '/data1/wj/Co-SOD dataset/test_data/'
+  inp_size: 288
+  testsets: ['CoCA']
+
+eval_type: sod
+
+data_norm:
+  inp: {sub: [0.5], div: [0.5]}
+  gt: {sub: [0.5], div: [0.5]}
+
+model:
+  name: segformer
+  args:
+    inp_size: 288
+    loss: iou
+    encoder_mode:
+      pretrained: './mit_b4.pth'
+      STR_w: 10
+      BCE_w: 5
+      IOU_w: 3
+      Class_w1: 0.1
+      Class_w2: 0.1
+      name: vcp
+      scale_factor: 4
+      input_type: fft
+      freq_nums: 0.25
+      prompt_type: highpass
+      tuning_stage: 1234
+      handcrafted_tune: true
+      embedding_tune: true
+      adaptor: adaptor

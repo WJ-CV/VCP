@@ -1,0 +1,3 @@
+CoCA (GCoNet_plus-ep100): 0.0000 max-Emeasure || 0.5376 S-measure  || 0.0000 max-fm || 1.0000 mae || 0.0000 mean-Emeasure || 0.0000 mean-fm.
+CoSOD3k (GCoNet_plus-ep100): 0.0000 max-Emeasure || 0.6335 S-measure  || 0.0000 max-fm || 1.0000 mae || 0.0000 mean-Emeasure || 0.0000 mean-fm.
+CoSal2015 (GCoNet_plus-ep100): 0.0000 max-Emeasure || 0.6478 S-measure  || 0.0000 max-fm || 1.0000 mae || 0.0000 mean-Emeasure || 0.0000 mean-fm.
