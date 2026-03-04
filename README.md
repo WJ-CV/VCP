@@ -26,8 +26,7 @@ Existing co-salient object detection (CoSOD) methods generally employ a three-st
 | VCP_Model | Segformer | Prediction results |
 |:-----:|:-------:|:-------:|
 | [DUT_class+COCO-SEG](https://huggingface.co/wang-jie825/VCP_model/tree/main) | [b4](https://huggingface.co/wang-jie825/VCP_model/tree/main) | [google-drive](https://drive.google.com/file/d/1roiadSPrNQjylI3cS433GssQ4-lMSBi4/view?usp=sharing) [Hug](https://huggingface.co/datasets/wang-jie825/VCP_CoSOD_result/tree/main) |
-> ⚠️ Please download the **VCP_Model** and place it in `./train_segformer_vcp_cosod/`  
-> and download the **Segformer** model and place it in `./`.
+> ⚠️ Please download the **VCP_Model** and place it in `./train_segformer_vcp_cosod/` and download the **Segformer** model and place it in `./`.
 
 Quantitative and qualitative comparison with SOTA methods
 ---
