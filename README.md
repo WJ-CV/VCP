@@ -23,10 +23,14 @@ Existing co-salient object detection (CoSOD) methods generally employ a three-st
 
 <a name="VCP_model"></a>
 ## 🏛️ Model Zoo
-| VCP_Model | Segformer | Prediction results |
-|:-----:|:-------:|:-------:|
-| [DUT_class+COCO-SEG](https://huggingface.co/wang-jie825/VCP_model/tree/main) | [b4](https://huggingface.co/wang-jie825/VCP_model/tree/main) | [google-drive](https://drive.google.com/file/d/1roiadSPrNQjylI3cS433GssQ4-lMSBi4/view?usp=sharing) [Hug](https://huggingface.co/datasets/wang-jie825/VCP_CoSOD_result/tree/main) |
-> ⚠️ Please download the **VCP_Model** and place it in `./train_segformer_vcp_cosod/` and download the **Segformer** model and place it in `./`.
+| VCP_Model | Segformer | Dataset | Prediction results |
+|:-----:|:-------:|:-------:|:-------:|
+| [DUT_class+COCO-SEG](https://huggingface.co/wang-jie825/VCP_model/tree/main) | [b4](https://huggingface.co/wang-jie825/VCP_model/tree/main) | [Test]() | [google-drive](https://drive.google.com/file/d/1roiadSPrNQjylI3cS433GssQ4-lMSBi4/view?usp=sharing) [Hug](https://huggingface.co/datasets/wang-jie825/VCP_CoSOD_result/tree/main) |
+> ⚠️ Please download the following before running inference:
+>
+> 1. **VCP_Model** → place it in `./train_segformer_vcp_cosod/`  
+> 2. **Segformer model** → place it in `./`  
+> 3. **CoSOD test dataset** → place it in your configured data path
 
 Quantitative and qualitative comparison with SOTA methods
 ---
