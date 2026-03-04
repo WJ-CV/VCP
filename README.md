@@ -55,6 +55,10 @@ pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 \
 pip install mmcv-full==1.7.1
 pip install mmsegmentation==0.30.0
 pip install mmcls==0.25.0
+
+# 4️⃣ Run inference
+# Replace # with your GPU id
+CUDA_VISIBLE_DEVICES=# python test_CoSOD.py
 ```
 
 📌 Citation
