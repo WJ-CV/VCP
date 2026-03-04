@@ -14,7 +14,7 @@ Existing co-salient object detection (CoSOD) methods generally employ a three-st
 
 ![3](https://github.com/user-attachments/assets/79903c7a-c1cd-47b0-b003-8e496f80738d)
 
-Consensus Prompt Generator & Consensus Prompt Disperser
+🏗️ Consensus Prompt Generator & Consensus Prompt Disperser
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3668d236-0dc8-4e99-8b2f-a802a898c6b6" width="45%" style="display:inline; margin-right:10px;" />
